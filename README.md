@@ -4,8 +4,8 @@ To review unallocated space in a disk image, extract data using forensic tools, 
 
 ## DESIGN STEPS:
 ```
-Name : Praveen V
-RegNo: 212222040121
+Name : Ashwinkumar S
+RegNo: 212222040020
 ```
 ### Step 1:
 Use tools like Autopsy or Sleuth Kit (blkls, icat) to identify and analyze unallocated space.
@@ -38,12 +38,18 @@ strings disk.img | less
 ```
 
 ## OUTPUT:
-![Screenshot 2025-05-02 213937](https://github.com/user-attachments/assets/57cecdb4-cbad-4637-9be1-ce7c6a9b3611)
-![Screenshot 2025-05-02 214023](https://github.com/user-attachments/assets/d0f78e62-3452-4436-81e0-9fd0a7fc47c3)
-![Screenshot 2025-05-02 214053](https://github.com/user-attachments/assets/d7399b3f-71b2-47d8-87fb-b1ff8d32eb78)
-![Screenshot 2025-05-02 214119](https://github.com/user-attachments/assets/52544091-5d64-4761-a372-a99cd6100ace)
-![Screenshot 2025-05-02 214205](https://github.com/user-attachments/assets/a12694e1-b46d-4091-a3e9-85a56af0928d)
-![Screenshot 2025-05-02 214149](https://github.com/user-attachments/assets/c9f258d0-196d-4b03-9574-d7d80faad081)
+![Screenshot 2025-05-05 134612](https://github.com/user-attachments/assets/02a02cce-4434-4a58-9f01-2406976c64f1)
+
+![Screenshot 2025-05-05 135028](https://github.com/user-attachments/assets/428f8f17-38dc-4113-9f80-983f68725e26)
+
+![Screenshot 2025-05-05 135043](https://github.com/user-attachments/assets/e8ccef85-6813-4e2e-a558-1d5d1462a08d)
+
+![Screenshot 2025-05-05 135055](https://github.com/user-attachments/assets/71677b97-0b3c-4461-b42c-54da0a161ce0)
+
+![Screenshot 2025-05-05 135107](https://github.com/user-attachments/assets/2596aac4-dee2-41b8-81a5-8a568dbd3ee7)
+
+![Screenshot 2025-05-05 135129](https://github.com/user-attachments/assets/a0cb2fb1-36dc-400a-aaca-72b358d26d56)
+
 
 
 
